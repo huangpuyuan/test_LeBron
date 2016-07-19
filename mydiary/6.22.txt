@@ -1,0 +1,34 @@
+
+
+   Earily in the morning,I came up an idea that in regard to answer the question: how could i learn Linux more effciency?
+   Becase I love LINUX.
+  
+   Life is just a moment.I want devote myself to protect national information network security and beat computer crime .
+   So first of all ,I have to promote the technology about information network security for myself.
+
+
+
+  
+
+
+
+Components of an Operating System
+1.THE Shell
+2.THE Kernel
+  1)file Manager
+  2)Device Driver
+  3)Memory Manager
+  4)Scheduler and Dispatcher
+
+System Organiazation
+1.The Repository Model
+2.The Client-Server Model
+3.The Layerad Model
+
+  LINUX
+	
+
+
+
+  PYTHON
+ 
